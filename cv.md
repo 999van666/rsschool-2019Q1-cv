@@ -1,15 +1,13 @@
 
 
-## <p align="center"><font face="courier" size="+2" color="#008000">1. Timoshevich, Ivan</font></p>
-```
-```
-##  <p align="center"><font color="purple" face="arial" size="+3">2. Сontact   
-```
-```
+## <font face="courier" size="+2" color="#008000">1. Timoshevich, Ivan
+
+##  <p align="center"><font color="purple" face="arial" size="+3">2. Сontact</font></p>   
+
 -      1.Phone number +375255220540  
 -      2.Skype paganec666000
 -      3.VK https://vk.com/paganec666 
-</font></p>
+
 ```
 ```
 ### <p align="center"><font face="courier" size="+3" color="#008000">  3. Summary </font></p>
