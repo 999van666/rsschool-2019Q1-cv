@@ -14,7 +14,7 @@ Self-development gaining experience a good team solving problems and self-realiz
 
 
 ## 4.Skills
-</h3> Microsoft World Microsoft Excel, Microsoft Power Point,Microsoft Visual Studio, Android Studio, Eclipse, IntelliJ IDEA, MATLAB, LabVIE, CorelDRAV, Adobe Photoshop, Scratch, MATHCAD,HTTP, LabVIEW, NI Multisim.</h3>
+ Microsoft World Microsoft Excel, Microsoft Power Point,Microsoft Visual Studio, Android Studio, Eclipse, IntelliJ IDEA, MATLAB, LabVIE, CorelDRAV, Adobe Photoshop, Scratch, MATHCAD,HTTP, LabVIEW, NI Multisim.
 
 ## 5.  Code example
 ```
