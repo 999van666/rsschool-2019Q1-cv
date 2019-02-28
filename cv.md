@@ -35,5 +35,5 @@ Wisor gaming assistant  Java Developer development of disktop java application u
 Unfinished higher BNTU,To English school(Englishrapa).
 
 ## 8. English level
-To English school(Englishrapa) 1age beginer and elementary!
+To English school(Englishpapa) 1age beginer and elementary!
 
