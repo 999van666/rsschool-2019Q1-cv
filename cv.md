@@ -1,28 +1,23 @@
 
 
-## <font face="courier" size="+2" color="#008000">1. Timoshevich, Ivan
+## 1. Timoshevich, Ivan
 
-##  <p align="center"><font color="purple" face="arial" size="+3">2. Сontact</font></p>   
+## 2. Сontact  
 
 -      1.Phone number +375255220540  
 -      2.Skype paganec666000
 -      3.VK https://vk.com/paganec666 
 
-```
-```
-### <p align="center"><font face="courier" size="+3" color="#008000">  3. Summary </font></p>
+
+## 3. Summary 
 Self-development gaining experience a good team solving problems and self-realiza
-```
-```
 
-### <p align="center"><font size="+3" face="comic sans ms"  color="#FF002E">4.Skills</font></p>
-```
-```
-<h3>Microsoft World Microsoft Excel, Microsoft Power Point,Microsoft Visual Studio, Android Studio, Eclipse, IntelliJ IDEA, MATLAB, LabVIE, CorelDRAV, Adobe Photoshop, Scratch, MATHCAD,HTTP, LabVIEW, NI Multisim.</h3>
 
-<p align="center"><font face="courier" size="+3" color="#00FFFF">  5.  Code example</font></p>
+## 4.Skills
+</h3> Microsoft World Microsoft Excel, Microsoft Power Point,Microsoft Visual Studio, Android Studio, Eclipse, IntelliJ IDEA, MATLAB, LabVIE, CorelDRAV, Adobe Photoshop, Scratch, MATHCAD,HTTP, LabVIEW, NI Multisim.</h3>
 
- ```  
+## 5.  Code example
+```
  module.exports = function warmup(temperature) {
 
   let fahrenheit = temperature * (9/5) + 32;
@@ -32,18 +27,13 @@ Self-development gaining experience a good team solving problems and self-realiz
 ```
 
 
-## <p align="center"><font color="#B8860B" face="arial" size="+3"> 6. Experience</font></p>
-```
-```
+## 6. Experience
 Wisor gaming assistant  Java Developer development of disktop java application using Android Studio and libGDX framework.
 
-## <p align="center"><font color="#800000" face="arial" size="+3"> 7. Education </font></p>
-```
-```
+## 7. Education
+
 Unfinished higher BNTU,To English school(Englishrapa).
 
-### <p align="center"><font size="+3" face="comic sans ms"  color="#228B22">8. English level</font></p>
-```
-```
+## 8. English level
 To English school(Englishrapa) 1age beginer and elementary!
 
