@@ -12,7 +12,7 @@ Self-development gaining experience a good team solving problems and self-realiz
 
 ### <p align="center"><font size="+3" face="comic sans ms"  color="#FF002E">4.Skills</font></p>
 <h3>Microsoft World Microsoft Excel, Microsoft Power Point,Microsoft Visual Studio, Android Studio, Eclipse, IntelliJ IDEA, MATLAB, LabVIE, CorelDRAV, Adobe Photoshop, Scratch, MATHCAD,HTTP, LabVIEW, NI Multisim.</h3>
-### <p align="center"><font face="courier" size="+3" color="#00FFFF">  5.  Code example</font></p>
+<p align="center"><font face="courier" size="+3" color="#00FFFF">  5.  Code example</font></p>
 
  ```  
  module.exports = function warmup(temperature) {
