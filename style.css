@@ -1,0 +1,80 @@
+  @font-face {
+        font-family: 'Helvetica Neue Cyr Thin';
+        src: url('HelveticaNeueCyr-Thin.eot');
+        src: url('HelveticaNeueCyr-Thin.eot?#iefix') format('embedded-opentype'),
+        url('HelveticaNeueCyr-Thin.woff') format('woff'),
+        url('HelveticaNeueCyr-Thin.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+        }
+html { height: 100%; width: 100%; }
+body{
+  position: relative;
+  left: 20%;
+  margin: 0px;
+}
+header{
+  background: #00abfa;
+  height: 63px;
+  display: flex;
+  max-width: 1020px;
+  max-height: 1020px;
+  
+
+}
+h1{
+    color: #000;
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em
+}
+h2{
+        color: rgb(7, 7, 7);
+        position: relative;
+        top: 47%;
+        font-family: "Helvetica","Arial", sans-serif;
+        line-height: 0.9;
+        left: 51%;
+
+        
+        max-width: 1020px;
+        max-height: 1020px; 
+        transform: translate(-50%, -50%)
+        
+      
+
+}
+main{
+    background: #86ff9a;
+    height: 1024px;
+    width: 1024px;
+    display: flex;
+    max-width: 1020px;
+    max-height: 1020px; 
+}
+img{
+    position: relative;
+    left: 85%;
+    width:150px; 
+    height:250px;
+}
+
+
+
+
+
+
+
+
+footer.a{
+    background: #222222;
+    height: 43px;
+    display: flex;
+    max-width: 1020px;
+    max-height: 1020px;
+    
+}
+footer{
+    color: #3f3f3f;
+    font-size: 12pt;
+}
